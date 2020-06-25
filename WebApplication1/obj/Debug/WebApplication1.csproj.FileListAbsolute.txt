@@ -4,3 +4,9 @@ C:\Users\Administrator\source\repos\WebApplication1\WebApplication1\bin\WebAppli
 C:\Users\Administrator\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
 C:\Users\Administrator\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
 C:\Users\Administrator\source\repos\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+D:\Vacanza-website\WebApplication1\bin\WebApplication1.dll.config
+D:\Vacanza-website\WebApplication1\bin\WebApplication1.dll
+D:\Vacanza-website\WebApplication1\bin\WebApplication1.pdb
+D:\Vacanza-website\WebApplication1\obj\Debug\WebApplication1.csprojAssemblyReference.cache
+D:\Vacanza-website\WebApplication1\obj\Debug\WebApplication1.dll
+D:\Vacanza-website\WebApplication1\obj\Debug\WebApplication1.pdb
